@@ -1,0 +1,3 @@
+C:/Users/brenn/CLionProjects/DiceChecker/cmake-build-debug/CMakeFiles/DiceChecker.dir
+C:/Users/brenn/CLionProjects/DiceChecker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brenn/CLionProjects/DiceChecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
