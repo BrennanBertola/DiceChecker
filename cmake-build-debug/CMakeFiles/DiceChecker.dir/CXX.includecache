@@ -9,4 +9,10 @@
 C:/Users/brenn/CLionProjects/DiceChecker/main.cpp
 iostream
 -
+iomanip
+-
+map
+-
+fstream
+-
 
